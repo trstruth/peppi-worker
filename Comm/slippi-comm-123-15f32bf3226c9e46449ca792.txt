@@ -1,0 +1,6 @@
+{
+    "mode": "normal",
+    "replay": "/Replays/Stream-Game_20190609T230044.slp",
+    "isRealTimeMode": false,
+    "commandId": "80510634d06f0bfbe17f8d53"
+}
